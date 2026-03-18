@@ -1,4 +1,4 @@
-# ⚙️ n8n Repocloud Deployment (Autoscaling + Queue Mode)
+# ⚙️ n8n Repocloud Deployment or Railway (Autoscaling + Queue Mode)
 
 This repository demonstrates how to deploy **production-ready n8n workflows** on Railway or Repocloud using queue mode, autoscaling workers, and a reliable backend setup.
 
